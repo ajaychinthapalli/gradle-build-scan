@@ -19,3 +19,4 @@ Gradle Terms of Service accepted.
 Publishing build scan...
 https://gradle.com/s/v25fieytc3o5o
 ```
+![build-scan-summary.png](images%2Fbuild-scan-summary.png)
