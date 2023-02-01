@@ -1,3 +1,5 @@
+[![Gradle Build Scan](https://github.com/ajaychinthapalli/gradle-build-scan/actions/workflows/main.yaml/badge.svg)](https://github.com/ajaychinthapalli/gradle-build-scan/actions/workflows/main.yaml)
+
 # gradle-build-scan
 A sample repository to experience the Build Scan™ service of Gradle Enterprise with Gradle builds.
 
